@@ -38,15 +38,15 @@ Create an interactive, user-friendly dashboard that:
 ---
 ## 📷 **Dashbord**
 ![image](https://github.com/user-attachments/assets/d4927d3d-71d6-4735-84c0-dca2d719b6ff)
-# 🌍 Survey Responses by Country
+## 🌍 Survey Responses by Country
 ![image](https://github.com/user-attachments/assets/71418419-ca5c-46cb-93c6-87d3de5bd03b)
-# 💰 Average Salary by Job Title
+## 💰 Average Salary by Job Title
 ![image](https://github.com/user-attachments/assets/7474599e-7d43-4895-8374-a63786882aab)
-# 🐍 Favorite Programming Languages Across Data Roles
+## 🐍 Favorite Programming Languages Across Data Roles
 ![image](https://github.com/user-attachments/assets/812222df-a55c-45a2-a67e-60581fb60b2c)
-# 🤔 Breaking into the Data Field: Challenges and Insights
+## 🤔 Breaking into the Data Field: Challenges and Insights
 ![image](https://github.com/user-attachments/assets/988571e3-ea10-497a-b0a1-2a0ee85089ba)
-# 😊 Work-Life Balance and Salary Happiness Scores
+## 😊 Work-Life Balance and Salary Happiness Scores
 ![image](https://github.com/user-attachments/assets/ce2eee15-ef5c-4927-aee7-3584a82ecc59)
 ---
 ## 🎯 **Results**
